@@ -1,2 +1,26 @@
 # Insurance-Claims-Analysis-Prediction
-Insurance Claims Analysis &amp; Prediction analyzes policyholder data to identify key factors affecting claim amounts and builds predictive models. The project provides actionable insights for risk assessment, policy pricing, and preventive strategies for insurance companies.
+Insurance Claims Analysis & Prediction is a data analytics and machine learning project that aims to analyze insurance policyholder data, identify key factors influencing claim amounts, and build predictive models to estimate future claims. This project provides actionable business insights to help insurance companies make data-driven decisions on risk assessment, policy pricing, and preventive strategies.
+
+Key Features of the Project
+
+Data Cleaning & Preprocessing: Handling missing values, encoding categorical variables, and preparing the dataset for modeling.
+
+Exploratory Data Analysis (EDA): Visualizing the distribution of claims, exploring relationships between features and claim amounts, and identifying trends.
+
+Predictive Modeling: Implementing Linear Regression and Random Forest Regressor to predict insurance claim amounts.
+
+Model Evaluation: Comparing models using RMSE, R², and MAE, identifying the best-performing model (Random Forest).
+
+Feature Importance & Insights: Determining which factors (e.g., smoker status, age, BMI, region) have the largest impact on claims.
+
+Visualization & Reporting: Generating plots for distributions, correlations, and feature importance, which are saved for documentation and presentations.
+
+Business Impact
+
+Helps insurance companies understand risk factors and optimize policy pricing.
+
+Provides insights into high-risk segments (e.g., smokers, older individuals, high-BMI clients).
+
+Supports preventive health programs by identifying key factors that increase claim likelihood.
+
+Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
