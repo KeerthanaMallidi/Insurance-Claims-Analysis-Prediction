@@ -13,4 +13,5 @@ Insurance Claims Analysis & Prediction is a data analytics and machine learning 
 1. Helps insurance companies understand risk factors and optimize policy pricing.
 2. Provides insights into high-risk segments (e.g., smokers, older individuals, high-BMI clients).
 3. Supports preventive health programs by identifying key factors that increase claim likelihood.
-4. Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
+
+**Technologies Used**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
