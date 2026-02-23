@@ -62,6 +62,6 @@ Top predictors influencing insurance claim amounts:
 - Matplotlib & Seaborn – Visualization  
 - Scikit-learn – Machine learning models (Linear Regression, Random Forest)  
 - Jupyter Notebook – EDA and interactive exploration
-- 
+
 ## Conclusion
 Random Forest outperforms Linear Regression for predicting insurance claims, capturing non-linear relationships in features like smoker status, age, and BMI. Feature importance provides actionable insights for insurance companies to optimize risk assessment, pricing strategies, and preventive health initiatives.
